@@ -2,7 +2,7 @@
 
 This repository contains the data and MATLAB code for our paper:
 
-> Marla López, Diana Erazo, Juliana Hoyos, Cielo León, Patricia Fuya, Ligia Lugo, Juan Manuel Cordovez, Camila González *Measuring spatial co-occurrences of species >potentially involved in Leishmania transmission cycles through a predictive and fieldwork approach*
+> Marla López, Diana Erazo, Juliana Hoyos, Cielo León, Patricia Fuya, Ligia Lugo, Juan Manuel Cordovez, Camila González *Measuring spatial co-occurrences of species potentially involved in Leishmania transmission cycles through a predictive and fieldwork approach*
  
  
 ### How to download or install
