@@ -18,13 +18,15 @@ Put all the following files in the same folder:
 
 MAIN SCRIPT: main_script.m
 
-DATA: 1. colombian grid (colgrid.mat) - Colombian grid and its borders (stored in CG 0 water, 1 land)        
-      2. mammal data (mammals.mat) - mammal species coordinates 
-      3. vector data (vectors.mat) - vector species coordinates  
+DATA: 
+1. colombian grid (colgrid.mat) - Colombian grid and its borders (stored in CG 0 water, 1 land)        
+2. mammal data (mammals.mat) - mammal species coordinates 
+3. vector data (vectors.mat) - vector species coordinates  
 
-FUNCTIONS: 1. mammals_dataset.m 
-           2. score_mammals.m 
-           3. score_map.m
-           4. vector_dataset.m
+FUNCTIONS: 
+1. mammals_dataset.m 
+2. score_mammals.m 
+3. score_map.m
+4. vector_dataset.m
            
 
